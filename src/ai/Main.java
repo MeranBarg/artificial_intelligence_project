@@ -15,7 +15,7 @@ import weka.core.Instances;
 
 import weka.filters.Filter;
 import weka.filters.unsupervised.attribute.Remove;
-public class main {
+public class Main {
 	public static void main(String[] args) throws  Exception{
 	//As a first step, the weka file must be read for training
     Instances train;
